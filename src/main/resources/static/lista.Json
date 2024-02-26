@@ -1,0 +1,64 @@
+{
+  "cidades_turisticas_alagoas": [
+    {
+      "nome": "Maceió",
+      "habitantes": 1025363,
+      "turistas": 500000,
+      "isbn": "978-3-16-148410-0",
+      "imagens": [
+        "url_da_imagem_1",
+        "url_da_imagem_2"
+      ]
+    },
+    {
+      "nome": "Porto de Galinhas",
+      "habitantes": 63463,
+      "turistas": 300000,
+      "isbn": "978-3-16-148410-1",
+      "imagens": [
+        "url_da_imagem_3",
+        "url_da_imagem_4"
+      ]
+    },
+    {
+      "nome": "Maragogi",
+      "habitantes": 30967,
+      "turistas": 200000,
+      "isbn": "978-3-16-148410-2",
+      "imagens": [
+        "url_da_imagem_5",
+        "url_da_imagem_6"
+      ]
+    },
+    {
+      "nome": "Penedo",
+      "habitantes": 62889,
+      "turistas": 150000,
+      "isbn": "978-3-16-148410-3",
+      "imagens": [
+        "url_da_imagem_7",
+        "url_da_imagem_8"
+      ]
+    },
+    {
+      "nome": "São Miguel dos Milagres",
+      "habitantes": 9253,
+      "turistas": 100000,
+      "isbn": "978-3-16-148410-4",
+      "imagens": [
+        "url_da_imagem_9",
+        "url_da_imagem_10"
+      ]
+    },
+    {
+      "nome": "Barra de São Miguel",
+      "habitantes": 8322,
+      "turistas": 80000,
+      "isbn": "978-3-16-148410-5",
+      "imagens": [
+        "url_da_imagem_11",
+        "url_da_imagem_12"
+      ]
+    }
+  ]
+}
