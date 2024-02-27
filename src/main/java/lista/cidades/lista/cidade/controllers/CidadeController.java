@@ -10,7 +10,14 @@ public class CidadeController {
 
 
 
+    private final CidadeService cidadeService;
 
+
+
+
+    public CidadeController(CidadeService cidadeService){
+        this.cidadeService = cidadeService;
+    }
 
 
 
