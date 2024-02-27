@@ -1,6 +1,7 @@
 package lista.cidades.lista.cidade.controllers;
 
 
+import lista.cidades.lista.cidade.doMain.Cidade;
 import lista.cidades.lista.cidade.service.CidadeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
